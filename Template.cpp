@@ -1,5 +1,8 @@
 #include <bits/stdc++.h>
-#define int		long long
+#define int	long long
+#define sz(x)	((int)(x).size())
+#define w(x)	int x; cin>>x; while(x--)
+#define db(x)	{ cerr << #x << " = " << x << endl; }
 using namespace std;
 
 void c_p_c(){
