@@ -8,3 +8,4 @@ int32_t main(){
 	ios::sync_with_stdio(false); cin.tie(0);
 	return 0;
 }
+g++ -std=c++17 -Wshadow -Wall -o "Template" "Template.cpp" -g -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG
