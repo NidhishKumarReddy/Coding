@@ -1,0 +1,25 @@
+{
+	"Base-Template-With-Out-TCS": {
+		"prefix": "template1",
+		"body": [
+		  "/******************************************",
+		  "* AUTHOR : sema_4 *",
+		  "******************************************/",
+		  "#include <bits/stdc++.h>",
+		  "using namespace std;",
+		  "#define int		long long",
+		  "",
+		  "void solve(){",
+		  "	",
+		  "}",
+		  "",
+		  "int32_t main(){",
+		  "	ios::sync_with_stdio(false); cin.tie(0);",
+		  "	solve();",
+		  "	return 0;",
+		  "}",
+		  "//g++ -std=c++17 -Wshadow -Wall -o \"sol\" \"sol.cpp\" -g -D_GLIBCXX_DEBUG"
+		],
+		"description": "Base-Template-With-Out-TCS"
+	  }
+}
