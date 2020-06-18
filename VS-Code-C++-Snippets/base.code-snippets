@@ -1,0 +1,36 @@
+{
+	"base": {
+		"prefix": "base",
+		"body": [
+		  "#include <bits/stdc++.h>",
+		  "using namespace std;",
+		  "#define endl    \"\\n\"",
+		  "#define int		long long",
+		  "#define mp		make_pair",
+		  "#define pb		push_back",
+		  "#define fi		first",
+		  "#define se 		second",
+		  "#define sz(x)	((int)(x).size())",
+		  "#define dbg(x) cerr<<#x<<\" :: \"<<x<<endl;",
+		  "#define dbg2(x,y) cerr<<#x<<\" :: \"<<x<<\"\\t\"<<#y<<\" :: \"<<y<<endl;",
+		  "const int INF = 1e9;",
+		  "const int MOD = 1e9 + 7; ",
+		  "const double pi = acos(-1);",
+		  "",
+		  "void solve (){",
+		  "    ",
+		  "}",
+		  "",
+		  "int32_t main(){",
+		  "    ios::sync_with_stdio(false); cin.tie(0);",
+		  "    int test; cin>>test;",
+		  "    while(test--){",
+		  "        solve();",
+		  "    }",
+		  "    return 0;",
+		  "}",
+		  "//g++ -std=c++17 -Wshadow -Wall -o \"%e\" \"%f\" -g -D_GLIBCXX_DEBUG"
+		],
+		"description": "base"
+	  }
+}
